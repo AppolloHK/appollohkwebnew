@@ -1,0 +1,7 @@
+.primary-button-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
